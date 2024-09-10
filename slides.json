@@ -1,0 +1,54 @@
+ [
+    {
+        "image": "images/1.jpg",
+        "title": "Hero of Darkness",
+        "details": [
+            "8.06",
+            "TV",
+            "Apr 06, 2024",
+            "PG-13",
+            "HD",
+            "19"
+        ],
+        "description": "7th season of Boku no Hero Academia, featuring thrilling new adventures and character developments."
+    },
+    {
+        "image": "images/2.jpg",
+        "title": "Hero of Casanova",
+        "details": [
+            "7.00",
+            "TV",
+            "May 10, 2024",
+            "PG-12",
+            "HD",
+            "10"
+        ],
+        "description": "7th season of Boku no Hero Academia, featuring thrilling new adventures and character developments."
+    },
+    {
+        "image": "images/3.jpg",
+        "title": "Hero of newEarth",
+        "details": [
+            "5.00",
+            "TV",
+            "May 10, 2024",
+            "PG-12",
+            "HD",
+            "21"
+        ],
+        "description": "7th season of Boku no Hero Academia, featuring thrilling new adventures and character developments."
+    },
+    {
+        "image": "images/4.jpg",
+        "title": "Hero of De ja vu",
+        "details": [
+            "10.00",
+            "TGTV",
+            "May 10, 2034",
+            "PG-12",
+            "HD",
+            "88"
+        ],
+        "description": "7th season of Boku no Hero Academia, featuring thrilling new adventures and character developments."
+    }
+]
